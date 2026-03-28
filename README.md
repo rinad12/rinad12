@@ -23,4 +23,4 @@ I've organized my work into two main hubs:
 * **Tools:** AWS, GitHub, Node.js
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=nord)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rinad12&show_icons=true&theme=nord)
