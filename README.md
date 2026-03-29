@@ -33,7 +33,7 @@ I've organized my work into two main hubs:
 ##  Tech Stack
 
 * **AI & LLM:** PydanticAI, LangChain, MCP (Model Context Protocol), RAG, Hugging Face
-* [cite_start]**Machine Learning:** PyTorch, TensorFlow, scikit-learn, statsmodels
-* [cite_start]**Data & Analytics:** Python (pandas, numpy), SQL, advanced statistical modeling
+* **Machine Learning:** PyTorch, TensorFlow, scikit-learn, statsmodels
+* **Data & Analytics:** Python (pandas, numpy), SQL, advanced statistical modeling
 * **Visualization:** matplotlib, seaborn, BI tools
-* [cite_start]**Infrastructure & Systems:** Docker, AWS
+* **Infrastructure & Systems:** Docker, AWS
