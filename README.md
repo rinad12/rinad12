@@ -11,7 +11,7 @@ I specialize in building LLM-based systems, predictive models, and technical too
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rinad12&theme=shadow-red)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rinad12&theme=shadow-red&v=1)](https://git.io/streak-stats)
 
 ---
 
